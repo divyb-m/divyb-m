@@ -6,10 +6,10 @@ datasets, and communicating findings to diverse audiences. I'm now applying thos
 data and BI roles outside of academia.
 
 ## Tools & Skills
-- **SQL** — exploratory analysis, aggregations, window functions
-- **Python** — pandas, matplotlib, seaborn
-- **R** — data manipulation, statistical analysis
-- **Excel / Google Sheets** — pivot tables, dashboards
+- **SQL**-  exploratory analysis, aggregations, window functions
+- **Python**-  pandas, matplotlib, seaborn
+- **R**- data manipulation, statistical analysis
+- **Excel / Google Sheets**- pivot tables, dashboards
 
 ## Projects
 *(Coming soon, check back shortly)*
