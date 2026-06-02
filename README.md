@@ -12,7 +12,7 @@ data and BI roles outside of academia.
 - **Excel / Google Sheets**- pivot tables, dashboards
 
 ## Projects
-*(Coming soon, check back shortly)*
+- [WoW Auction House SQL Analysis](https://github.com/divyb-m/sql-wow-auction-house-analysis) — Exploratory SQL analysis of a player-driven virtual economy using PostgreSQL
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/divya-bhat-phd
