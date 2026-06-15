@@ -12,7 +12,7 @@ data and BI roles outside of academia.
 - **Excel / Google Sheets**- pivot tables, dashboards
 
 ## Projects
-- My repos contain all completed projects. I mainly use PostGresSQL 
+- My repos contain all completed projects.
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/divya-bhat-miller
