@@ -12,7 +12,7 @@ data and BI roles outside of academia.
 - **Excel / Google Sheets**- pivot tables, dashboards
 
 ## Projects
-- [WoW Auction House SQL Analysis](https://github.com/divyb-m/sql-wow-auction-house-analysis) — Exploratory SQL analysis of a player-driven virtual economy using PostgreSQL
+- My repos contain all completed projects. I mainly use PostGresSQL 
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/divya-bhat-miller
