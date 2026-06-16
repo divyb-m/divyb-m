@@ -1,4 +1,4 @@
-## Hi I'm Divya 👋
+## Hi I'm Divya 
 
 I'm a PhD-trained analyst transitioning into data and business intelligence roles.
 My background is in quantitative research: designing experiments, analyzing complex 
